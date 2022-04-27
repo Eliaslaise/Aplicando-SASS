@@ -1,4 +1,4 @@
-//pantalla ancha
+//----------PANTALLA ANCHA----------
 
 @media(min-width: 1200px){
     nav, .servicios, .footerContent, .presentacion{
@@ -8,7 +8,7 @@
 }
 
 
-//pantalla mediana
+//----------PANTALLA MEDIANA----------
 
 @media(max-width: 992px){
     .presentacion, .tipo-servicios{
@@ -29,7 +29,7 @@
     }
 }
 
-//pantalla pequeña
+//----------PANTALLA PEQUEÑA----------
 
 @media(max-width: 420px){
     .presentacion div{
